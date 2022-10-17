@@ -15,3 +15,5 @@ Hey guys i am going to make a simple animated login form using only html and css
 10. box-sizing, border-box, box-shadow, outline, overflow.
 11. border, border-width, border-radius.
 12. @keyframes, animation, animation-delay, linear, infinite.
+
+# Contribute more to Open Source by contributing this REPO and get a chance to win Awesome rewards.
